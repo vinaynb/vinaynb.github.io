@@ -3,7 +3,7 @@
 		{
 		  "title"      : "Hello World",
 		  "category"   : "articles",
-		  "url"        : "/articles/test-post",
+		  "url"        : "/articles/hello-world",
 		  "date"       : "2015-12-27 00:00:00 +0530",
 		  "shortdate"  : "December 27, 2015"
 		} 
