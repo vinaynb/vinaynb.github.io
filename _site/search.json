@@ -1,6 +1,14 @@
 [
 	
 		{
+		  "title"      : "Building this blog and selecting Jekyll",
+		  "category"   : "articles",
+		  "url"        : "/articles/building-this-blog-and-selecting-jekyll",
+		  "date"       : "2016-01-05 00:00:00 +0530",
+		  "shortdate"  : "January 05, 2016"
+		} ,
+	
+		{
 		  "title"      : "Hello World",
 		  "category"   : "articles",
 		  "url"        : "/articles/hello-world",

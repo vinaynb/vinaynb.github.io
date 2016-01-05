@@ -3,6 +3,11 @@ callback([
   {
     "text": "Hello World",
     "href": "/articles/hello-world"
+  } ,
+
+  {
+    "text": "Building this blog and selecting Jekyll",
+    "href": "/articles/building-this-blog-and-selecting-jekyll"
   } 
 
 ])
