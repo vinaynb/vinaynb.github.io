@@ -16,9 +16,9 @@ fin_color:        "255,255,255"
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
 #Local
-baseurl:            "0.0.0.0"
+#baseurl:            "0.0.0.0"
 #Live
-#baseurl:        	  "http://vinaynb.github.io/"
+baseurl:        	  "http://vinaynb.github.io/"
 
 # Owner/author information
 owner:
@@ -29,7 +29,7 @@ owner:
   description:    Web Developer based in Ahmedabad,India with a keen interest in front end tooling. This space serves as a canvas for me to paint my rumblings about life.
   # Social networking links used in footer. Update and remove as you like.
   twitter:        dilemmist
-  facebook:       hmfaysal
+  facebook:       vspace
   github:         vinaynb      
   instagram:      vinaynb
   # For Google Authorship https://plus.google.com/authorship
