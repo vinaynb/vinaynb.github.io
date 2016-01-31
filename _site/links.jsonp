@@ -8,6 +8,11 @@ callback([
   {
     "text": "Building a blog with Jekyll and Github pages",
     "href": "/articles/building-a-blog-with-jekyll-and-github-pages"
+  } ,
+
+  {
+    "text": "Building a blog with Jekyll and Github pages",
+    "href": "/articles/building-this-blog-and-selecting-jekyll"
   } 
 
 ])
