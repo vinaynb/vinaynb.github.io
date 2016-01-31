@@ -1,4 +1,4 @@
-title:            Vspace
+title:            Vinay Bhinde
 description:      "Blog about Life,Web Development and everything in between"
 logo:             logo.png
 disqus_shortname: vinaybhinde
@@ -82,8 +82,8 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://hmfaysal.github.io/Notepad/'
-  relativeLinks: 'http://hmfaysal.github.io/Notepad/links.jsonp'
+  siteurl: 'http://vinaybhinde.com'
+  relativeLinks: 'http://vinaybhinde.com/links.jsonp'
   media: 'images'
   metadata:
     _posts:
