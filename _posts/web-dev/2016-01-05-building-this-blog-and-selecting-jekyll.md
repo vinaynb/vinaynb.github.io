@@ -4,7 +4,7 @@ title: Building this blog and selecting Jekyll
 description: "This is basically my tale of setting up this very blog and the learnings from the process."
 modified: 2016-0105
 category: articles
-tags: [web-dev]
+tags: [web-dev,jekyll]
 imagefeature: posts/set-up-your-blog-cover.jpg
 comments: true
 share: true
