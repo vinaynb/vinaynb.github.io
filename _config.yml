@@ -16,9 +16,9 @@ fin_color:        "255,255,255"
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
 #Local
-#baseurl:            "0.0.0.0"
+baseurl:            "0.0.0.0"
 #Live
-baseurl:        	  "http://vinaynb.github.io/"
+#baseurl:        	  "http://vinaynb.github.io/"
 
 # Owner/author information
 owner:

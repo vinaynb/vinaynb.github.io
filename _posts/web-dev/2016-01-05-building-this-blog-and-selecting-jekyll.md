@@ -72,16 +72,10 @@ I am still figuring out how Jekyll exactly works and processes your text into a 
 4. Download the theme from github repo and copy the contents into your repository folder that was created after you cloning.
 5. Below is what your folder structure look like after following above steps.   
    ![Final Directory structure]({{ site.url }}/images/posts/jekyllDirStructure.png){: .img-responsive }
-6. All your configuration settings for your jekyll website are located on a file named **_config.yml**. This if from where you will specify global settings such as title of the blog, author details, URL path variables, markdown plugin being used, google analytics etc. Open the file in your favourite editor and look for an variable named **baseurl**. The value of this variable will differ when you are devleping locally and when your site is live. Hence i use two versions as follows with one commented at any point of time.   
- : {% highlight yaml %}
-# Change url to your domain. Leave localhost server or blank when working locally.
-# or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
-# whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
-# Local
-baseurl:            "0.0.0.0"
-# Live
-# baseurl:           "http://vinaynb.github.io/"
-{% endhighlight %}
+6. All your configuration settings for your jekyll website are located on a file named **_config.yml**. This if from where you will specify global settings such as title of the blog, author details, URL path variables, markdown plugin being used, google analytics etc. Open the file in your favourite editor and look for an variable named **baseurl**. The value of this variable will differ when you are devleping locally and when your site is live. Hence i use two versions as follows with one commented at any point of time.
+   <div class="pt15">
+   <script src="https://gist.github.com/vinaynb/986ebdfc372e60435d76.js"></script>
+   </div>   
 7. Keeping the base url to "0.0.0.0", open your terminal and run the below command from the root directory of your repo (in my case root is the folder vinaynb.github.io)
    {:.bash}
        jekyll serve --baseurl
