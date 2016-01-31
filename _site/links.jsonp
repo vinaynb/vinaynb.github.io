@@ -6,8 +6,8 @@ callback([
   } ,
 
   {
-    "text": "Building this blog and selecting Jekyll",
-    "href": "/articles/building-this-blog-and-selecting-jekyll"
+    "text": "Building a blog with Jekyll and Github pages",
+    "href": "/articles/building-a-blog-with-jekyll-and-github-pages"
   } 
 
 ])
