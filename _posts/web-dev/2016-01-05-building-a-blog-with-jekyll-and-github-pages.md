@@ -4,7 +4,7 @@ title: Building a blog with Jekyll and Github pages
 description: "This is basically my tale of setting up this very blog and the learnings from the process."
 modified: 2016-0105
 category: articles
-tags: [web-dev,jekyll,github-pages,user-pages,github hosting,free blog,free hosting]
+tags: [web-dev,jekyll]
 imagefeature: posts/set-up-your-blog-cover.jpg
 comments: true
 share: true
