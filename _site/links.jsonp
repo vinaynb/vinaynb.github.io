@@ -11,8 +11,8 @@ callback([
   } ,
 
   {
-    "text": "Building a blog with Jekyll and Github pages",
-    "href": "/articles/building-this-blog-and-selecting-jekyll"
+    "text": "Integerating Payumoney payment gateway with Sencha Touch Hybrid App",
+    "href": "/articles/integrating-payumoney-payment-gateway-with-sencha-touch-app"
   } 
 
 ])

@@ -13,7 +13,7 @@ animated_fins:    true
 # Specify the fin color in RGB value
 fin_color:        "255,255,255"
 # Change url to your domain. Leave localhost server or blank when working locally.
-# or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
+# or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
 #Local
 #baseurl:            "0.0.0.0"
@@ -30,16 +30,16 @@ owner:
   # Social networking links used in footer. Update and remove as you like.
   twitter:        dilemmist
   facebook:       vspace
-  github:         vinaynb      
+  github:         vinaynb
   instagram:      vinaynb
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    https://plus.google.com/u/0/116540206745869822562
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   UA-66192154-2
-google_verify:      
+google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
+bing_verify:
 
 # Links to include in footer navigation
 # For external links add external: true
@@ -74,7 +74,7 @@ kramdown:
   use_coderay: false
 
   coderay:
-    coderay_line_numbers: 
+    coderay_line_numbers:
     coderay_line_numbers_start: 1
     coderay_tab_width: 4
     coderay_bold_every: 10

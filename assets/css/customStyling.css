@@ -4,6 +4,15 @@
     height: auto;
 }
 
-.notepad-site-footer .copyright a{
-	color: #e51843;
+.article-content-img {
+    max-width: 100%;
+}
+
+.notepad-site-footer .copyright a {
+    color: #e51843;
+}
+
+.github-gist-css {
+    margin: 2em auto 2em auto;
+    max-width: 56.25rem;
 }
