@@ -13,6 +13,11 @@ callback([
   {
     "text": "Integerating Payumoney payment gateway with Sencha Touch Hybrid App",
     "href": "https://vinaybhinde.com//articles/integrating-payumoney-payment-gateway-with-sencha-touch-app"
+  } ,
+
+  {
+    "text": "Fortnight in Spiti",
+    "href": "https://vinaybhinde.com//articles/fortnight-in-spiti"
   } 
 
 ])
