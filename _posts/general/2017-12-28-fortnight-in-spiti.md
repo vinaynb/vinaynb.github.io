@@ -2,12 +2,13 @@
 layout: post
 title: Fortnight in Spiti
 description: "My narration of a lifelong experience of spending a fortnight in Spiti Valley (Himachal Pradesh)"
-modified: 2015-1227
+modified: 2017-1227
 category: articles
 tags: [general]
 imagefeature: posts/fortnight-in-spiti.JPG
 comments: true
 share: true
+published: false
 ---
 
 A 15 day road trip through one of the most remote, untouched and pristine valleys of India - that's what goes down your memory lane as a lifelong experience. This is my narration of the experience i had when riding thorough [Spiti Valley](https://en.wikipedia.org/wiki/Spiti_Valley) in Himachal Pradesh.

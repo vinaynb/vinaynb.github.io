@@ -1,14 +1,6 @@
 [
 	
 		{
-		  "title"      : "Fortnight in Spiti",
-		  "category"   : "articles",
-		  "url"        : "/articles/fortnight-in-spiti",
-		  "date"       : "2017-01-28 00:00:00 +0530",
-		  "shortdate"  : "January 28, 2017"
-		} ,
-	
-		{
 		  "title"      : "Integerating Payumoney payment gateway with Sencha Touch Hybrid App",
 		  "category"   : "articles",
 		  "url"        : "/articles/integrating-payumoney-payment-gateway-with-sencha-touch-app",

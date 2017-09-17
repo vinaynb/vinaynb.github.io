@@ -18,7 +18,7 @@ fin_color:        "255,255,255"
 #Local
 baseurl:            "0.0.0.0"
 #Live
-#baseurl:        	  "http://vinaynb.github.io/"
+#baseurl:        	  "https://vinaynb.github.io/"
 
 # Owner/author information
 owner:
@@ -82,7 +82,7 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://vinaybhinde.com'
+  siteurl: 'https://vinaybhinde.com'
   relativeLinks: 'http://vinaybhinde.com/links.jsonp'
   media: 'images'
   metadata:
