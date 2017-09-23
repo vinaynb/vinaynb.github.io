@@ -2,7 +2,7 @@
 layout: post
 title: SSL with Github Pages
 description: "A guide which documents gotchas you may face when securing your Github Pages website with Cloudfare for free."
-modified: 2017-0920
+modified: 2017-09-23
 category: articles
 tags: [web-dev,ssl,cloudfare]
 comments: true
