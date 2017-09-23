@@ -2,17 +2,22 @@ callback([
 
   {
     "text": "Hello World",
-    "href": "https://vinaybhinde.com/articles/hello-world"
+    "href": "/articles/hello-world"
   } ,
 
   {
     "text": "Building a blog with Jekyll and Github pages",
-    "href": "https://vinaybhinde.com/articles/building-a-blog-with-jekyll-and-github-pages"
+    "href": "/articles/building-a-blog-with-jekyll-and-github-pages"
   } ,
 
   {
     "text": "Integerating Payumoney payment gateway with Sencha Touch Hybrid App",
-    "href": "https://vinaybhinde.com/articles/integrating-payumoney-payment-gateway-with-sencha-touch-app"
+    "href": "/articles/integrating-payumoney-payment-gateway-with-sencha-touch-app"
+  } ,
+
+  {
+    "text": "SSL with Github Pages",
+    "href": "/articles/ssl-with-github-pages"
   } 
 
 ])

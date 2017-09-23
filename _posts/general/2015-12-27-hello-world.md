@@ -14,7 +14,7 @@ After hours of juggling through jekyll articles, github build errors and other t
 
 If you are a developer than you would be familiar with this "Hello World" title but if you are not then these are the two words everyone is told to use in thier code when they just start out in thier journey to become coders. So after 5 years into this journey it becomes apt for me to use the same two words for my first blog post.
 
-Actually this is second blog of mine, first one exists on blogspot but its been ages since i last updated it. Also i used to blog for leisure back then as i had literally no technical know how about any of the things concerning developing something through code. 
+Actually this is second blog of mine, first one exists on blogspot but its been ages since i last updated it. Also i used to blog for leisure back then as i had literally no technical know how about any of the things concerning developing something through code.
 
 ## Inspiration behind this blog
 

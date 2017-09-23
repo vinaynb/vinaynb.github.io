@@ -1,18 +1,24 @@
 .img-responsive {
-    display: block;
-    max-width: 100%;
-    height: auto;
+	display: block;
+	max-width: 100%;
+	height: auto;
 }
 
 .article-content-img {
-    max-width: 100%;
+	max-width: 100%;
 }
 
 .notepad-site-footer .copyright a {
-    color: #e51843;
+	color: #e51843;
 }
 
 .github-gist-css {
-    margin: 2em auto 2em auto;
-    max-width: 56.25rem;
+	margin: 2em auto 2em auto;
+	max-width: 56.25rem;
+}
+
+.fix-heading {
+	color: #4CAF50;
+	font-weight: bold;
+	text-decoration: underline;
 }
