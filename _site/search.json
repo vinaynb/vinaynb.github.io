@@ -1,9 +1,17 @@
 [
 	
 		{
+		  "title"      : "Heuristic Caching in Browsers",
+		  "category"   : "articles",
+		  "url"        : "https://vinaybhinde.com/articles/heuristic-caching-in-browsers",
+		  "date"       : "2017-12-08 00:00:00 +0530",
+		  "shortdate"  : "December 08, 2017"
+		} ,
+	
+		{
 		  "title"      : "SSL with Github Pages",
 		  "category"   : "articles",
-		  "url"        : "/articles/ssl-with-github-pages",
+		  "url"        : "https://vinaybhinde.com/articles/ssl-with-github-pages",
 		  "date"       : "2017-09-20 00:00:00 +0530",
 		  "shortdate"  : "September 20, 2017"
 		} ,
@@ -11,7 +19,7 @@
 		{
 		  "title"      : "Integerating Payumoney payment gateway with Sencha Touch Hybrid App",
 		  "category"   : "articles",
-		  "url"        : "/articles/integrating-payumoney-payment-gateway-with-sencha-touch-app",
+		  "url"        : "https://vinaybhinde.com/articles/integrating-payumoney-payment-gateway-with-sencha-touch-app",
 		  "date"       : "2016-12-16 00:00:00 +0530",
 		  "shortdate"  : "December 16, 2016"
 		} ,
@@ -19,7 +27,7 @@
 		{
 		  "title"      : "Building a blog with Jekyll and Github pages",
 		  "category"   : "articles",
-		  "url"        : "/articles/building-a-blog-with-jekyll-and-github-pages",
+		  "url"        : "https://vinaybhinde.com/articles/building-a-blog-with-jekyll-and-github-pages",
 		  "date"       : "2016-01-05 00:00:00 +0530",
 		  "shortdate"  : "January 05, 2016"
 		} ,
@@ -27,7 +35,7 @@
 		{
 		  "title"      : "Hello World",
 		  "category"   : "articles",
-		  "url"        : "/articles/hello-world",
+		  "url"        : "https://vinaybhinde.com/articles/hello-world",
 		  "date"       : "2015-12-27 00:00:00 +0530",
 		  "shortdate"  : "December 27, 2015"
 		} 
