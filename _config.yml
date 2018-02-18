@@ -18,7 +18,7 @@ fin_color:        "255,255,255"
 #Local
 #baseurl:            "0.0.0.0"
 #Live
-url:        	  "https://vinaybhinde.com"
+url:        	  "https://vinaybhinde.in"
 #url:            "http://localhost:4000"
 
 # Owner/author information
@@ -83,8 +83,8 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'https://vinaybhinde.com'
-  relativeLinks: 'https://vinaybhinde.com/links.jsonp'
+  siteurl: 'https://vinaybhinde.in'
+  relativeLinks: 'https://vinaybhinde.in/links.jsonp'
   media: 'images'
   metadata:
     _posts:

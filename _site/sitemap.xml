@@ -1,66 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://vinaybhinde.com</loc>
+        <loc>https://vinaybhinde.in</loc>
     </url>
     
     
     <url>
-        <loc>https://vinaybhinde.com/404.html</loc>
+        <loc>https://vinaybhinde.in/404.html</loc>
     </url>
     
     <url>
-        <loc>https://vinaybhinde.com/about/index.html</loc>
+        <loc>https://vinaybhinde.in/about/index.html</loc>
     </url>
     
     <url>
-        <loc>https://vinaybhinde.com/categories/index.html</loc>
+        <loc>https://vinaybhinde.in/categories/index.html</loc>
     </url>
     
     <url>
-        <loc>https://vinaybhinde.com/featured/</loc>
+        <loc>https://vinaybhinde.in/featured/</loc>
     </url>
     
     <url>
-        <loc>https://vinaybhinde.com/index.html</loc>
+        <loc>https://vinaybhinde.in/index.html</loc>
     </url>
     
     <url>
-        <loc>https://vinaybhinde.com/links.jsonp</loc>
+        <loc>https://vinaybhinde.in/links.jsonp</loc>
     </url>
     
     <url>
-        <loc>https://vinaybhinde.com/search.json</loc>
+        <loc>https://vinaybhinde.in/search.json</loc>
     </url>
     
     <url>
-        <loc>https://vinaybhinde.com/sitemap.xml</loc>
+        <loc>https://vinaybhinde.in/sitemap.xml</loc>
     </url>
     
     <url>
-        <loc>https://vinaybhinde.com/tags/index.html</loc>
+        <loc>https://vinaybhinde.in/tags/index.html</loc>
     </url>
     
 
     
     <url>
-        <loc>https://vinaybhinde.com/articles/heuristic-caching-in-browsers</loc>
+        <loc>https://vinaybhinde.in/articles/heuristic-caching-in-browsers</loc>
     </url>
     
     <url>
-        <loc>https://vinaybhinde.com/articles/ssl-with-github-pages</loc>
+        <loc>https://vinaybhinde.in/articles/ssl-with-github-pages</loc>
     </url>
     
     <url>
-        <loc>https://vinaybhinde.com/articles/integrating-payumoney-payment-gateway-with-sencha-touch-app</loc>
+        <loc>https://vinaybhinde.in/articles/integrating-payumoney-payment-gateway-with-sencha-touch-app</loc>
     </url>
     
     <url>
-        <loc>https://vinaybhinde.com/articles/building-a-blog-with-jekyll-and-github-pages</loc>
+        <loc>https://vinaybhinde.in/articles/building-a-blog-with-jekyll-and-github-pages</loc>
     </url>
     
     <url>
-        <loc>https://vinaybhinde.com/articles/hello-world</loc>
+        <loc>https://vinaybhinde.in/articles/hello-world</loc>
     </url>
     
 </urlset>

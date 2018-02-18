@@ -25,7 +25,7 @@ Browsers have this rule that if you serve a HTML page over https then all the re
 
 The prime reason here was that my jekyll theme structure appended all my scripts and css files with the string that is stored in url property inside `_config.yml`. Ironically i did not have such a property in my config file and hence it somehow used my old url which did not have https in it. So all my assets were being loaded from http while my html page was on https.
 
-So to fix this I modified my config file to include a *url* paramater and supplied my shining new https url i.e. https.vinaybhinde.com as its value. I also removed baseUrl option from my config as it was not required there. If you are using a user site on github pages (and not individual project sites) take note that you don't neccessarily need to have baseUrl parameter in `_config.yml` and you can just omit it. Using it without understaning will result into unneccessary path related issues which are a pain to fix.
+So to fix this I modified my config file to include a *url* paramater and supplied my shining new https url i.e. https.vinaybhinde.in as its value. I also removed baseUrl option from my config as it was not required there. If you are using a user site on github pages (and not individual project sites) take note that you don't neccessarily need to have baseUrl parameter in `_config.yml` and you can just omit it. Using it without understaning will result into unneccessary path related issues which are a pain to fix.
 
 Next - Git Push and boom, site sprang to Life !
 
