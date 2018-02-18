@@ -2,7 +2,7 @@
 layout: post
 title: Heuristic Caching in Browsers
 description: "Relatively unknown fact about how browsers may cache your assets without you explicitly instructing them to."
-modified: 2017-12-08
+modified: 2017-12-09
 category: articles
 tags: [web-dev,browsers,caching]
 comments: true
